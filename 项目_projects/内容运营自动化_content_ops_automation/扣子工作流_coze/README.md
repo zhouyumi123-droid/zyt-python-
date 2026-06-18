@@ -13,3 +13,5 @@
 ## 当前已完成
 
 - [内容选题到发布包装工作流_v1.md](D:\FDE学习\项目_projects\内容运营自动化_content_ops_automation\扣子工作流_coze\内容选题到发布包装工作流_v1.md)
+- [大模型4_发布包装优化_v2.md](D:\FDE学习\项目_projects\内容运营自动化_content_ops_automation\扣子工作流_coze\大模型4_发布包装优化_v2.md)
+- [工作流_v1_固定测试用例.md](D:\FDE学习\项目_projects\内容运营自动化_content_ops_automation\扣子工作流_coze\工作流_v1_固定测试用例.md)
