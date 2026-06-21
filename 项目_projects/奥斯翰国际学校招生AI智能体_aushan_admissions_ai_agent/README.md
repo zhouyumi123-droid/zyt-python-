@@ -146,3 +146,21 @@
 - 把工作流变成可交付产品
 
 这正是你后面做 FDE 储备、作品集储备、商业化储备时最值钱的部分。
+
+## 当前资料状态更新
+
+你已经确认：
+
+- 学校原始资料主目录在 `D:\奥斯翰国际学校\01_source_materials_原始资料`
+- 国际部各课程的确定版本、师资页、履历成绩都在这里
+- 宣发内容以后都以这里的资料为基础
+
+这意味着：
+
+现在不是“缺资料”，而是“要开始做资料治理”。
+
+后续先看这几份说明：
+
+- [源资料分层规则_source_layering.md](D:\FDE学习\项目_projects\奥斯翰国际学校招生AI智能体_aushan_admissions_ai_agent\源资料分层规则_source_layering.md)
+- [第一批入库建议_first_batch_ingestion.md](D:\FDE学习\项目_projects\奥斯翰国际学校招生AI智能体_aushan_admissions_ai_agent\第一批入库建议_first_batch_ingestion.md)
+- [资料提取说明](D:\FDE学习\项目_projects\奥斯翰国际学校招生AI智能体_aushan_admissions_ai_agent\资料提取_extracted_materials\README.md)
